@@ -1,0 +1,7 @@
+---
+- hosts: host-group
+  become: yes
+  roles:
+    - authorized_users
+
+

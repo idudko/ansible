@@ -1,0 +1,18 @@
+---
+ssh_users:
+  - name: user1
+    comments: "First and Last name"
+    groups: wheel
+  - name: user2
+    comments: "First and Last name""
+    groups: wheel
+  - name: user3
+    comments: "First and Last name""
+    groups: wheel
+  - name: user4
+    comments: "First and Last name""
+    groups: wheel
+  - name: user5
+    comments: "First and Last name""
+    groups: wheel
+
